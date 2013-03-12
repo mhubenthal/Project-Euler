@@ -18,7 +18,7 @@
 import java.math.*;
 import java.util.Scanner;
 
-public class EulerFour{
+public class Euler4{
 	public static void main (String[] args){
   	int product = 0;
   	String answer = "";

@@ -19,7 +19,7 @@
 //
 //**********************************************
 
-public class EulerTwo{
+public class Euler2{
   public static void main (String[] args){
     int numA = 0;
     int numB = 1;

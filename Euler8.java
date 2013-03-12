@@ -35,7 +35,7 @@ import java.math.*;
 import java.util.Scanner;
 import java.io.*;
 
-public class EulerEight{
+public class Euler8{
   public static void main (String[] args) throws IOException{
     int num1 = 0;
     int num2 = 0;
@@ -48,7 +48,7 @@ public class EulerEight{
     int start = 6;
     int end = 7;
     
-    Scanner in = new Scanner(new FileReader("EulerEight.txt"));
+    Scanner in = new Scanner(new FileReader("Euler8.txt"));
     bigNumber = (in.nextLine());
     
     num1 = Integer.parseInt(bigNumber.substring(0,1));

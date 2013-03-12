@@ -19,7 +19,7 @@
 import java.math.*;
 import java.util.*;
 
-public class EulerNine{
+public class Euler9{
   public static void main (String[] args){
     int a = 1;
     int b = 1;

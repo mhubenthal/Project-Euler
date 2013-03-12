@@ -14,13 +14,13 @@ import java.math.*;
 import java.util.Scanner;
 import java.io.*;
 
-public class EulerThirteen{
+public class Euler13{
   public static void main (String[] args)throws IOException{
     double total = 0;
     double newTotal = 0;
     String newNumber = "";
     
-    Scanner in = new Scanner (new FileReader ("EulerThirteen.txt"));
+    Scanner in = new Scanner (new FileReader ("Euler13.txt"));
     newNumber = in.nextLine();
     total = Double.parseDouble(newNumber);
     

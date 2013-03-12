@@ -10,7 +10,7 @@
 //
 //**********************************************
 
-public class EulerOne{
+public class Euler1{
   public static void main (String[] args){
     int num = 3;
     int sum = 0;

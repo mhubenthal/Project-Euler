@@ -40,7 +40,7 @@ import java.math.*;
 import java.util.Scanner;
 import java.io.*;
 
-public class EulerEleven{
+public class Euler11{
   public static void main (String[] args)throws IOException{
     int a = 0;
     int b = 0;
@@ -53,9 +53,9 @@ public class EulerEleven{
     int column = 0;
     boolean done = false;
     
-    Scanner in = new Scanner (new FileReader ("EulerEleven.txt"));
+    Scanner in = new Scanner (new FileReader ("Euler11.txt"));
     
-    while (in.hasNextLine()&&row<=19)  //Create 2-d array of 20x20 number grid{
+    while (in.hasNextLine()&&row<=19){  //Create 2-d array of 20x20 number grid{
       while (column<=19){
         numSquare[row][column] = in.nextInt();
         column++;

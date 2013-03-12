@@ -25,7 +25,7 @@
 import java.math.*;
 import java.util.Scanner;
 
-public class EulerSix{
+public class Euler6{
   public static void main (String[] args){
     int numA = ((100*101)/2)*((100*101)/2); // Summation rules for sum of the first 100 numbers in this case.
     int numB = (100*101*201)/6;	// Summation rules for sum of the squares, of the first 100 squares in this case.

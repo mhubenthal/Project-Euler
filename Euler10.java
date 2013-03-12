@@ -13,7 +13,7 @@
 import java.math.*;
 import java.util.*;
 
-public class EulerTen{
+public class Euler10{
   public static void main (String[] args){
     double number = 3;  // Only test odd numbers
     double primeSum = 2;

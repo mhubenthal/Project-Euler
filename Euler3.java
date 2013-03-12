@@ -17,7 +17,7 @@
 import java.math.*;
 import java.util.Scanner;
 
-public class EulerThree{
+public class Euler3{
   public static void main (String[] args){
     // Create array of first 10000 prime numbers, to use as test factors
     double[] primes = new double[10000];

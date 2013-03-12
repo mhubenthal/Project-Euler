@@ -19,7 +19,7 @@ import java.math.*;
 import java.util.Scanner;
 import java.util.*;
 
-public class EulerSeven{
+public class Euler7{
   public static void main (String[] args){
     double[] primes = new double[10000];
     int primeCounter = 0;
